@@ -1,0 +1,1 @@
+"use strict";function shuovisualchange(){var s=document.getElementById("shuovisualchange");"none"==$(".power").css("display")?($(".power").css({display:"inline"}),$(".shuoshuo_author_img").css({display:"inline"}),s.innerHTML="隐藏"):($(".power").css({display:"none"}),$(".shuoshuo_author_img").css({display:"none"}),s.innerHTML="编辑")}
