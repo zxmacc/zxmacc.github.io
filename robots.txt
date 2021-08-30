@@ -2,7 +2,6 @@
 User-agent: * 
 Allow: /
 Allow: /archives/
-Allow: /about/
 
 Disallow: /vendors/
 Disallow: /js/
