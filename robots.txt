@@ -1,4 +1,4 @@
-# hexo robots.txt
+# www.zxma.top hexo robots.txt
 User-agent: * 
 Allow: /
 Allow: /archives/
@@ -9,6 +9,8 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: /kongtiao/
+Disallow: /box/
 
 Sitemap: https://www.zxma.top/sitemap.xml
 Sitemap: https://www.zxma.top/baidusitemap.xml
