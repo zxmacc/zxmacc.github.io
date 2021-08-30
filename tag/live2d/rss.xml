@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>檐牙的小窝 • Posts by &#34;live2d&#34; tag</title>
+        <link>https://www.zxma.top</link>
+        <description>梦想是当一名画师</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 06 Oct 2020 17:28:25 +0000</pubDate>
+        <lastBuildDate>Tue, 06 Oct 2020 17:28:25 +0000</lastBuildDate>
+        <category>Hexo</category>
+        <category>兽设</category>
+        <category>视频</category>
+        <category>动画</category>
+        <category>博客</category>
+        <category>兽圈</category>
+        <category>设定</category>
+        <category>Live2d</category>
+        <category>人设</category>
+        <item>
+            <guid isPermalink="true">https://www.zxma.top/posts/61916/</guid>
+            <title>自制Live2D形象</title>
+            <link>https://www.zxma.top/posts/61916/</link>
+            <category>视频</category>
+            <category>兽圈</category>
+            <category>设定</category>
+            <category>Live2d</category>
+            <pubDate>Tue, 06 Oct 2020 17:28:25 +0000</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;自制Live2D&#34;&gt;&lt;a href=&#34;#自制Live2D&#34; class=&#34;headerlink&#34; title=&#34;自制Live2D&#34;&gt;&lt;/a&gt;自制Live2D&lt;/h1&gt;&lt;p&gt;自己做了个Live2D撒&lt;br&gt;设定图&lt;br&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/zxmacc.png&#34; alt=&#34;更新&#34;&gt;&lt;br&gt;       &lt;em&gt;2020/10/6更新图&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;效果视频&#34;&gt;&lt;a href=&#34;#效果视频&#34; class=&#34;headerlink&#34; title=&#34;效果视频&#34;&gt;&lt;/a&gt;效果视频&lt;/h1&gt;&lt;p&gt;视频显示有问题的可以直接访问&lt;a href=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/livecc.mp4&#34;&gt;效果视频&lt;/a&gt;&lt;/p&gt;
+&lt;video id=&#34;video&#34; controls=&#34;&#34; preload=&#34;none&#34; width=&#34;300px&#34; height=&#34;630px&#34; poster=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/live2d.jpg&#34;&gt;
+      &lt;source id=&#34;mp4&#34;  src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/livecc.mp4&#34; type=&#34;video/mp4&#34;&gt;
+      &lt;/video&gt;
+
+ ]]></description>
+        </item>
+    </channel>
+</rss>

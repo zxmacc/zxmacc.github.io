@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "檐牙的小窝 • All posts by \"视频\" tag",
+    "description": "梦想是当一名画师",
+    "home_page_url": "https://www.zxma.top",
+    "items": [
+        {
+            "id": "https://www.zxma.top/posts/28820/",
+            "url": "https://www.zxma.top/posts/28820/",
+            "title": "视频测试",
+            "date_published": "2021-06-15T13:57:11.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"/assets/css/APlayer.min.css\"><script src=\"/assets/js/APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><script class=\"meting-secondary-script-marker\" src=\"/assets/js/Meting.min.js\"></script><p><strong>方法来源于CSDN博客，适用于静态博客网站</strong><br><strong>插件<a href=\"http://dplayer.js.org/\">Dplayer</a></strong></p>\n<h1 id=\"哔哩哔哩\"><a href=\"#哔哩哔哩\" class=\"headerlink\" title=\"哔哩哔哩\"></a>哔哩哔哩</h1><p><a href=\"https://www.bilibili.com/video/BV1oK4y1G7xT\">视频来源</a>bilibili《战 地 2 0 4 2》</p>\n<div id=\"dplayer0\" class=\"dplayer hexo-tag-dplayer-mark\" style=\"margin-bottom: 20px;\"></div><script>(function(){var player = new DPlayer({\"container\":document.getElementById(\"dplayer0\"),\"theme\":\"#FADFA3\",\"loop\":true,\"video\":{\"url\":\"https://unpkg.zhimg.com/zxmacc-cdn@1.0.1/videos/zd01.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/xxx.2pyzvkfrbdu0.gif\"},\"danmaku\":{\"id\":\"312412\",\"api\":\"https://dplayer.moerats.com/\",\"token\":\"tokendemo\"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>\n<h1 id=\"幼女战记\"><a href=\"#幼女战记\" class=\"headerlink\" title=\"幼女战记\"></a>幼女战记</h1><div id=\"dplayer1\" class=\"dplayer hexo-tag-dplayer-mark\" style=\"margin-bottom: 20px;\"></div><script>(function(){var player = new DPlayer({\"container\":document.getElementById(\"dplayer1\"),\"theme\":\"#FADFA3\",\"loop\":true,\"video\":{\"url\":\"https://unpkg.zhimg.com/zxmacc-cdn@1.0.1/videos/yn031.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/xxx.2pyzvkfrbdu0.gif\"},\"danmaku\":{\"id\":\"3634442\",\"api\":\"https://dplayer.moerats.com/\",\"token\":\"tokendemo\"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>\n",
+            "tags": [
+                "Hexo",
+                "视频"
+            ]
+        },
+        {
+            "id": "https://www.zxma.top/posts/4439/",
+            "url": "https://www.zxma.top/posts/4439/",
+            "title": "动画番剧推荐（来自深渊）",
+            "date_published": "2020-10-17T17:20:25.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"/assets/css/APlayer.min.css\"><script src=\"/assets/js/APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><script class=\"meting-secondary-script-marker\" src=\"/assets/js/Meting.min.js\"></script><p>电视动画片《来自深渊》改编自土笔章人原作的同名漫画作品，由KINEMA CITRUS负责制作。于2016年12月21日宣布动画化。</p>\n<h1 id=\"剧情简介\"><a href=\"#剧情简介\" class=\"headerlink\" title=\"剧情简介\"></a>剧情简介</h1><p>在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“阿比斯”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“阿比斯”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。<br>住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人…？ （以上来源于百度百科）</p>\n<h1 id=\"混剪视频（来源百度）\"><a href=\"#混剪视频（来源百度）\" class=\"headerlink\" title=\"混剪视频（来源百度）\"></a>混剪视频（来源百度）</h1><p>手机端直接点击链接观看<a href=\"https://cdn.jsdelivr.net/gh/zxmav/CND@2.4/images/%E6%9D%A5%E8%87%AA%E6%B7%B1%E6%B8%8A,%E4%B8%80%E6%97%A0%E6%89%80%E7%9F%A5.mp4\">点击观看视频</a></p>\n<video id=\"video\" controls=\"\" preload=\"none\" width=\"630px\" height=\"368px\" poster=\"https://cdn.jsdelivr.net/gh/zxmav/CND@2.5/images/abyss.jpg\">\n      <source id=\"mp4\"  src=\"https://cdn.jsdelivr.net/gh/zxmav/CND@2.4/images/%E6%9D%A5%E8%87%AA%E6%B7%B1%E6%B8%8A,%E4%B8%80%E6%97%A0%E6%89%80%E7%9F%A5.mp4\" type=\"video/mp4\">\n      </video>",
+            "tags": [
+                "视频",
+                "动画"
+            ]
+        },
+        {
+            "id": "https://www.zxma.top/posts/61916/",
+            "url": "https://www.zxma.top/posts/61916/",
+            "title": "自制Live2D形象",
+            "date_published": "2020-10-06T17:28:25.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"/assets/css/APlayer.min.css\"><script src=\"/assets/js/APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><script class=\"meting-secondary-script-marker\" src=\"/assets/js/Meting.min.js\"></script><h1 id=\"自制Live2D\"><a href=\"#自制Live2D\" class=\"headerlink\" title=\"自制Live2D\"></a>自制Live2D</h1><p>自己做了个Live2D撒<br>设定图<br><img src=\"https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/zxmacc.png\" alt=\"更新\"><br>       <em>2020/10/6更新图</em></p>\n<h1 id=\"效果视频\"><a href=\"#效果视频\" class=\"headerlink\" title=\"效果视频\"></a>效果视频</h1><p>视频显示有问题的可以直接访问<a href=\"https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/livecc.mp4\">效果视频</a></p>\n<video id=\"video\" controls=\"\" preload=\"none\" width=\"300px\" height=\"630px\" poster=\"https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/live2d.jpg\">\n      <source id=\"mp4\"  src=\"https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/livecc.mp4\" type=\"video/mp4\">\n      </video>\n\n",
+            "tags": [
+                "视频",
+                "兽圈",
+                "设定",
+                "Live2d"
+            ]
+        }
+    ]
+}

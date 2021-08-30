@@ -1,213 +1,198 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>檐牙的小窝</title>
-  <icon>https://www.zxma.top//img/siteicon/favicon.png</icon>
-  <subtitle>Zxma.top</subtitle>
-  <link href="https://www.zxma.top/atom.xml" rel="self"/>
-  
-  <link href="https://www.zxma.top/"/>
-  <updated>2021-08-25T16:48:25.000Z</updated>
-  <id>https://www.zxma.top/</id>
-  
-  <author>
-    <name>檐牙</name>
-    
-  </author>
-  
-  <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>关于为什么要写博客</title>
-    <link href="https://www.zxma.top/posts/a2e0e64a/"/>
-    <id>https://www.zxma.top/posts/a2e0e64a/</id>
-    <published>2021-08-25T08:40:05.000Z</published>
-    <updated>2021-08-25T16:48:25.000Z</updated>
-    
-    
-    <summary type="html">记录一下写博客的起因QwQ</summary>
-    
-    
-    
-    
-    <category term="Hexo" scheme="https://www.zxma.top/tags/Hexo/"/>
-    
-    <category term="博客" scheme="https://www.zxma.top/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>视频测试</title>
-    <link href="https://www.zxma.top/posts/28820/"/>
-    <id>https://www.zxma.top/posts/28820/</id>
-    <published>2021-06-15T13:57:11.000Z</published>
-    <updated>2021-08-30T04:50:35.056Z</updated>
-    
-    
-    <summary type="html">Dplayer视频测试</summary>
-    
-    
-    
-    <category term="测试" scheme="https://www.zxma.top/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-    <category term="Hexo" scheme="https://www.zxma.top/tags/Hexo/"/>
-    
-    <category term="视频" scheme="https://www.zxma.top/tags/%E8%A7%86%E9%A2%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>自设合集（建设中，敬请期待）</title>
-    <link href="https://www.zxma.top/posts/51727/"/>
-    <id>https://www.zxma.top/posts/51727/</id>
-    <published>2021-05-24T16:49:23.000Z</published>
-    <updated>2021-08-30T04:50:35.056Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="兽设" scheme="https://www.zxma.top/tags/%E5%85%BD%E8%AE%BE/"/>
-    
-    <category term="人设" scheme="https://www.zxma.top/tags/%E4%BA%BA%E8%AE%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人物设定（兽设）</title>
-    <link href="https://www.zxma.top/posts/200501/"/>
-    <id>https://www.zxma.top/posts/200501/</id>
-    <published>2021-05-23T15:22:57.000Z</published>
-    <updated>2021-08-30T04:50:35.052Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="兽设" scheme="https://www.zxma.top/tags/%E5%85%BD%E8%AE%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>（小说）架空世界观设定</title>
-    <link href="https://www.zxma.top/posts/19888/"/>
-    <id>https://www.zxma.top/posts/19888/</id>
-    <published>2021-01-03T06:42:39.000Z</published>
-    <updated>2021-08-30T04:50:35.056Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="设定" scheme="https://www.zxma.top/categories/%E8%AE%BE%E5%AE%9A/"/>
-    
-    
-    <category term="兽圈" scheme="https://www.zxma.top/tags/%E5%85%BD%E5%9C%88/"/>
-    
-    <category term="设定" scheme="https://www.zxma.top/tags/%E8%AE%BE%E5%AE%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>动画番剧推荐（来自深渊）</title>
-    <link href="https://www.zxma.top/posts/4439/"/>
-    <id>https://www.zxma.top/posts/4439/</id>
-    <published>2020-10-17T17:20:25.000Z</published>
-    <updated>2021-08-30T04:50:35.052Z</updated>
-    
-    
-    <summary type="html">番剧推荐</summary>
-    
-    
-    
-    <category term="番剧" scheme="https://www.zxma.top/categories/%E7%95%AA%E5%89%A7/"/>
-    
-    
-    <category term="视频" scheme="https://www.zxma.top/tags/%E8%A7%86%E9%A2%91/"/>
-    
-    <category term="动画" scheme="https://www.zxma.top/tags/%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>自制Live2D形象</title>
-    <link href="https://www.zxma.top/posts/61916/"/>
-    <id>https://www.zxma.top/posts/61916/</id>
-    <published>2020-10-06T17:28:25.000Z</published>
-    <updated>2021-08-30T04:50:35.056Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Live2d" scheme="https://www.zxma.top/categories/Live2d/"/>
-    
-    
-    <category term="视频" scheme="https://www.zxma.top/tags/%E8%A7%86%E9%A2%91/"/>
-    
-    <category term="兽圈" scheme="https://www.zxma.top/tags/%E5%85%BD%E5%9C%88/"/>
-    
-    <category term="设定" scheme="https://www.zxma.top/tags/%E8%AE%BE%E5%AE%9A/"/>
-    
-    <category term="Live2d" scheme="https://www.zxma.top/tags/Live2d/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>兽设和人设 （本体设定）</title>
-    <link href="https://www.zxma.top/posts/19660/"/>
-    <id>https://www.zxma.top/posts/19660/</id>
-    <published>2020-10-06T14:24:26.000Z</published>
-    <updated>2021-08-30T04:50:35.056Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="设定" scheme="https://www.zxma.top/categories/%E8%AE%BE%E5%AE%9A/"/>
-    
-    
-    <category term="兽圈" scheme="https://www.zxma.top/tags/%E5%85%BD%E5%9C%88/"/>
-    
-    <category term="设定" scheme="https://www.zxma.top/tags/%E8%AE%BE%E5%AE%9A/"/>
-    
-  </entry>
-  
+    <id>https://www.zxma.top</id>
+    <title>檐牙的小窝</title>
+    <link href="https://www.zxma.top" />
+    <updated>2021-08-25T08:40:05.000Z</updated>
+    <category term="Hexo" />
+    <category term="兽设" />
+    <category term="视频" />
+    <category term="动画" />
+    <category term="博客" />
+    <category term="兽圈" />
+    <category term="设定" />
+    <category term="Live2d" />
+    <category term="人设" />
+    <entry>
+        <id>https://www.zxma.top/posts/a2e0e64a/</id>
+        <title>关于为什么要写博客</title>
+        <link rel="alternate" href="https://www.zxma.top/posts/a2e0e64a/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;tip &#34;&gt;&lt;p&gt;博主刚开始写博客，写的不好的各位客官可以指出来，QwQ嘿嘿~&lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;为啥要写博客&#34;&gt;&lt;a href=&#34;#为啥要写博客&#34; class=&#34;headerlink&#34; title=&#34;为啥要写博客&#34;&gt;&lt;/a&gt;为啥要写博客&lt;/h1&gt;&lt;h2 id=&#34;了解概念&#34;&gt;&lt;a href=&#34;#了解概念&#34; class=&#34;headerlink&#34; title=&#34;了解概念&#34;&gt;&lt;/a&gt;了解概念&lt;/h2&gt;&lt;p&gt;我记得第一次了解到博客这个概念是在&lt;a href=&#34;https://www.bilibili.com/&#34;&gt;哔哩哔哩&lt;/a&gt; &lt;svg class=&#34;icon&#34; style=&#34;width:2em; height:2em&#34; aria-hidden=&#34;true&#34;&gt;&lt;use xlink:href=&#34;#icon-bilibili1&#34;&gt;&lt;/use&gt;&lt;/svg&gt; ，当时还是初二。&lt;a href=&#34;https://www.bilibili.com/video/BV1q4411672K&#34;&gt;相关视频&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第一次看到的时候就感觉特别有意思&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/14.gif&#34; style=&#34;height:50px;&#34;/&gt;，于是就去跟着视频去做了一遍。我记得这位UP主还自己出钱，提供过免费的二级域名让我们去试着搭建，现在已经没有了。&lt;/p&gt;
+&lt;h3 id=&#34;中途放弃&#34;&gt;&lt;a href=&#34;#中途放弃&#34; class=&#34;headerlink&#34; title=&#34;中途放弃&#34;&gt;&lt;/a&gt;中途放弃&lt;/h3&gt;&lt;p&gt;当时了解到的是，建一个博客必须需要服务器~，一台服务器就要好多钱，觉得门槛太高，&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/16.gif&#34; style=&#34;height:50px;&#34;/&gt;就没继续往下探索。B站当时好像也没有任何教程,也有可能是我搜索的有问题？&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/2.gif&#34; style=&#34;height:50px;&#34;/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;发现新大陆&#34;&gt;&lt;a href=&#34;#发现新大陆&#34; class=&#34;headerlink&#34; title=&#34;发现新大陆&#34;&gt;&lt;/a&gt;发现新大陆&lt;/h2&gt;&lt;p&gt;有次我突然又回想到了博客这事，于是去B站搜索博客一关键词，了解到了&lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;&lt;svg class=&#34;icon&#34; style=&#34;width:2em; height:2em&#34; aria-hidden=&#34;true&#34;&gt;&lt;use xlink:href=&#34;#icon-hexo&#34;&gt;&lt;/use&gt;&lt;/svg&gt;，&lt;a href=&#34;https://gridea.dev/&#34;&gt;Gridea&lt;/a&gt;&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/image.bbr7457u8ow.png&#34; style=&#34;height:50px;&#34;/&gt;这种静态博客生成器，还有代码托管网站&lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;&lt;svg class=&#34;icon&#34; style=&#34;width:2em; height:2em&#34; aria-hidden=&#34;true&#34;&gt;&lt;use xlink:href=&#34;#icon-huaban88&#34;&gt;&lt;/use&gt;&lt;/svg&gt;。这让我又重新有了搭建博客的兴趣！&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/12.gif&#34; style=&#34;height:50px;&#34;/&gt;&lt;/p&gt;
+&lt;h3 id=&#34;尝试&#34;&gt;&lt;a href=&#34;#尝试&#34; class=&#34;headerlink&#34; title=&#34;尝试&#34;&gt;&lt;/a&gt;尝试&lt;/h3&gt;&lt;p&gt;当时没有任何的代码基础，自己啥也不懂，一开始用的Hexo，全是网上搜教程，傻瓜式一步一步来，然后教程里没有讲到的，我写出来全是报错，红色的致命错误&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/7.gif&#34; style=&#34;height:50px;&#34;/&gt;，当时也没去找大佬，自己就在错误中摸索吧~，非常的崩溃，整的我有一段时间不想弄了。&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/10.gif&#34; style=&#34;height:50px;&#34;/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;契机&#34;&gt;&lt;a href=&#34;#契机&#34; class=&#34;headerlink&#34; title=&#34;契机&#34;&gt;&lt;/a&gt;契机&lt;/h2&gt;&lt;p&gt;之后看到了Gridea这个生成器，并且Gridea的主题里，有一个搬运自Hexo的Next主题。因为Gridea有自己的UI界面，操作起来很方便，每次生成和上传几乎都是成功的。这里感谢&lt;a href=&#34;https://yeming.site/&#34;&gt;Madara&lt;/a&gt;&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/hsxyhao/hsxyhao.github.io@1.3.3/images/avatar.png&#34; style=&#34;height:50px;&#34;/&gt;搬运的Next主题。之后开始正常使用博客后，我不满足于现状，感觉Gridea的扩展性太弱了，就开始一边用Gridea写博客&lt;em&gt;虽然也没写多少，嘿嘿&lt;/em&gt;，一边探索Hexo这个扩展性极高的生成器。&lt;/p&gt;
+&lt;h3 id=&#34;搭建过程&#34;&gt;&lt;a href=&#34;#搭建过程&#34; class=&#34;headerlink&#34; title=&#34;搭建过程&#34;&gt;&lt;/a&gt;搭建过程&lt;/h3&gt;&lt;p&gt;搭建过程除了网上搜教程，全靠自己摸索，没有问别的大佬，&lt;del&gt;有点社恐吧~2333&lt;/del&gt;，有时折腾到凌晨3点多。终于在一个暑假过后，在Hexo上获得了突破，有了一个像样的博客 &lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/8.gif&#34; style=&#34;height:50px;&#34;/&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;违背初衷&#34;&gt;&lt;a href=&#34;#违背初衷&#34; class=&#34;headerlink&#34; title=&#34;违背初衷&#34;&gt;&lt;/a&gt;违背初衷&lt;/h3&gt;&lt;p&gt;之后可以说是走火入魔了&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/10.gif&#34; style=&#34;height:50px;&#34;/&gt;，初衷是想有个自己可以写东西的地方吧，我也挺喜欢画画的，也可以把自己的画放在博客上面。但是我开始折腾主题，想让自己的博客变的好看 &lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/15.gif&#34; style=&#34;height:50px;&#34;/&gt;&lt;/p&gt;
+&lt;h3 id=&#34;Next主题&#34;&gt;&lt;a href=&#34;#Next主题&#34; class=&#34;headerlink&#34; title=&#34;Next主题&#34;&gt;&lt;/a&gt;Next主题&lt;/h3&gt;&lt;div class=&#34;site-card-group&#34;&gt;
+&lt;a class=&#34;site-card&#34; href=&#34;https://theme-next.js.org/&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/image.6892vcylvhs0.png&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;https://theme-next.js.org/images/logo.svg&#34;/&gt;&lt;span class=&#34;title&#34;&gt;Next&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;Next主题原作者&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+
+&lt;a class=&#34;site-card&#34; href=&#34;https://yeming.site/&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://gridea.dev//media/images/theme-images/theme-next.jpg&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/hsxyhao/hsxyhao.github.io@1.3.3/images/avatar.png&#34;/&gt;&lt;span class=&#34;title&#34;&gt;Madara&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;Next主题搬运作者&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;更换为Butterfly主题&#34;&gt;&lt;a href=&#34;#更换为Butterfly主题&#34; class=&#34;headerlink&#34; title=&#34;更换为Butterfly主题&#34;&gt;&lt;/a&gt;更换为Butterfly主题&lt;/h2&gt;&lt;p&gt;有次在CSDN上搜索推荐的Hexo主题，偶然间看到了&lt;a href=&#34;https://butterfly.js.org/&#34;&gt;Buttefly&lt;/a&gt;&lt;svg class=&#34;icon&#34; style=&#34;width:2em; height:2em&#34; aria-hidden=&#34;true&#34;&gt;&lt;use xlink:href=&#34;#icon-Butterfly&#34;&gt;&lt;/use&gt;&lt;/svg&gt;主题，第一次看到时一脸惊讶：哇！怎么这么好看！加载速度也嗖嗖地，非常快！反正：卧槽，好牛逼！ &lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/13.gif&#34; style=&#34;height:50px;&#34;/&gt;就对了。于是就变成了现在的这个样子。&lt;/p&gt;
+&lt;div class=&#34;site-card-group&#34;&gt;
+&lt;a class=&#34;site-card&#34; href=&#34;https://theme-next.js.org/&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/image.1tlve9ii9go0.png&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/image.1h37a9sco9kw.png&#34;/&gt;&lt;span class=&#34;title&#34;&gt;Butterfly&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;Butterfly主题作者&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;魔改&#34;&gt;&lt;a href=&#34;#魔改&#34; class=&#34;headerlink&#34; title=&#34;魔改&#34;&gt;&lt;/a&gt;魔改&lt;/h3&gt;&lt;p&gt;然后这个主题的扩展性很强吧，就衍生出了一堆的魔改。我现在写这个文章时，用的就是自己已经魔改好的主题。这个魔改也很折腾人，但是也让我逐渐理解了这个Hexo，还有主题的一些机制吧~&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/14.gif&#34; style=&#34;height:50px;&#34;/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;结束&#34;&gt;&lt;a href=&#34;#结束&#34; class=&#34;headerlink&#34; title=&#34;结束&#34;&gt;&lt;/a&gt;结束&lt;/h2&gt;&lt;p&gt;总之就是这样啦，从初二开始探索到现在初中毕业吧。这个写博客的动力来源，一开始是因为我初一时，好像很浪费时间，总是浑浑噩噩的。我想通过这个来弥补吧~。现在的话就是一个兴趣吧，也挺好，写到这里时我还挺激动的~&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/HONKAI3-Daily/5.gif&#34; style=&#34;height:50px;&#34;/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;写的有些匆忙，不合适的地方可以指出来哈OvO~&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="Hexo" />
+        <category term="博客" />
+        <updated>2021-08-25T08:40:05.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zxma.top/posts/28820/</id>
+        <title>视频测试</title>
+        <link rel="alternate" href="https://www.zxma.top/posts/28820/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;p&gt;&lt;strong&gt;方法来源于CSDN博客，适用于静态博客网站&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;插件&lt;a href=&#34;http://dplayer.js.org/&#34;&gt;Dplayer&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;哔哩哔哩&#34;&gt;&lt;a href=&#34;#哔哩哔哩&#34; class=&#34;headerlink&#34; title=&#34;哔哩哔哩&#34;&gt;&lt;/a&gt;哔哩哔哩&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1oK4y1G7xT&#34;&gt;视频来源&lt;/a&gt;bilibili《战 地 2 0 4 2》&lt;/p&gt;
+&lt;div id=&#34;dplayer0&#34; class=&#34;dplayer hexo-tag-dplayer-mark&#34; style=&#34;margin-bottom: 20px;&#34;&gt;&lt;/div&gt;&lt;script&gt;(function(){var player = new DPlayer({&#34;container&#34;:document.getElementById(&#34;dplayer0&#34;),&#34;theme&#34;:&#34;#FADFA3&#34;,&#34;loop&#34;:true,&#34;video&#34;:{&#34;url&#34;:&#34;https://unpkg.zhimg.com/zxmacc-cdn@1.0.1/videos/zd01.mp4&#34;,&#34;pic&#34;:&#34;https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/xxx.2pyzvkfrbdu0.gif&#34;},&#34;danmaku&#34;:{&#34;id&#34;:&#34;312412&#34;,&#34;api&#34;:&#34;https://dplayer.moerats.com/&#34;,&#34;token&#34;:&#34;tokendemo&#34;}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()&lt;/script&gt;
+&lt;h1 id=&#34;幼女战记&#34;&gt;&lt;a href=&#34;#幼女战记&#34; class=&#34;headerlink&#34; title=&#34;幼女战记&#34;&gt;&lt;/a&gt;幼女战记&lt;/h1&gt;&lt;div id=&#34;dplayer1&#34; class=&#34;dplayer hexo-tag-dplayer-mark&#34; style=&#34;margin-bottom: 20px;&#34;&gt;&lt;/div&gt;&lt;script&gt;(function(){var player = new DPlayer({&#34;container&#34;:document.getElementById(&#34;dplayer1&#34;),&#34;theme&#34;:&#34;#FADFA3&#34;,&#34;loop&#34;:true,&#34;video&#34;:{&#34;url&#34;:&#34;https://unpkg.zhimg.com/zxmacc-cdn@1.0.1/videos/yn031.mp4&#34;,&#34;pic&#34;:&#34;https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/xxx.2pyzvkfrbdu0.gif&#34;},&#34;danmaku&#34;:{&#34;id&#34;:&#34;3634442&#34;,&#34;api&#34;:&#34;https://dplayer.moerats.com/&#34;,&#34;token&#34;:&#34;tokendemo&#34;}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()&lt;/script&gt;
+</content>
+        <category term="Hexo" />
+        <category term="视频" />
+        <updated>2021-06-15T13:57:11.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zxma.top/posts/51727/</id>
+        <title>自设合集（建设中，敬请期待）</title>
+        <link rel="alternate" href="https://www.zxma.top/posts/51727/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;h2 id=&#34;人设&#34;&gt;&lt;a href=&#34;#人设&#34; class=&#34;headerlink&#34; title=&#34;人设&#34;&gt;&lt;/a&gt;人设&lt;/h2&gt;&lt;div class=&#34;note info flat&#34;&gt;&lt;p&gt;敬请期待&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;兽设&#34;&gt;&lt;a href=&#34;#兽设&#34; class=&#34;headerlink&#34; title=&#34;兽设&#34;&gt;&lt;/a&gt;兽设&lt;/h2&gt;&lt;div class=&#34;note info flat&#34;&gt;&lt;div class=&#34;tag link&#34;&gt;&lt;a class=&#34;link-card&#34; title=&#34;兽设&#34; href=&#34;https://blog.zxmacc.cf/posts/200501&#34;&gt;&lt;div class=&#34;left&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmacc/zxmacc.github.io/img/siteicon/favicon.ico&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;right&#34;&gt;&lt;p class=&#34;text&#34;&gt;兽设&lt;/p&gt;&lt;p class=&#34;url&#34;&gt;https://blog.zxmacc.cf/posts/200501&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+        <category term="兽设" />
+        <category term="人设" />
+        <updated>2021-05-24T16:49:23.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zxma.top/posts/200501/</id>
+        <title>人物设定（兽设）</title>
+        <link rel="alternate" href="https://www.zxma.top/posts/200501/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;tip &#34;&gt;&lt;p&gt;设定之后可能会发生变动&lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;基础设定&#34;&gt;&lt;a href=&#34;#基础设定&#34; class=&#34;headerlink&#34; title=&#34;基础设定&#34;&gt;&lt;/a&gt;基础设定&lt;/h1&gt;&lt;h2 id=&#34;丹尼尔&#34;&gt;&lt;a href=&#34;#丹尼尔&#34; class=&#34;headerlink&#34; title=&#34;丹尼尔&#34;&gt;&lt;/a&gt;丹尼尔&lt;/h2&gt;&lt;p class=&#39;p center logo large&#39;&gt;丹尼尔&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;性别：男&lt;/li&gt;
+&lt;li&gt;出场年龄：25岁&lt;/li&gt;
+&lt;li&gt;种族：犬兽人&lt;/li&gt;
+&lt;li&gt;身高：170cm&lt;/li&gt;
+&lt;li&gt;体重：60kg&lt;/li&gt;
+&lt;li&gt;常用服装：白色工作服&lt;/li&gt;
+&lt;li&gt;外貌：毛发主要为谈黄色以及白色短毛&lt;/li&gt;
+&lt;li&gt;性格：偏内向，平时总是板着一张脸&lt;/li&gt;
+&lt;li&gt;简介：小时候在孤儿院，因为种族关系，时而受到一些人类的歧视，长大后被一对人类夫妇收养&lt;details &gt;&lt;summary&gt; 设定图 &lt;/summary&gt;
+              &lt;div class=&#39;content&#39;&gt;
+              &lt;div class=&#34;img-wrap&#34;&gt;&lt;div class=&#34;img-bg&#34;&gt;&lt;img class=&#34;img&#34; src=&#34;https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/5fa069f2d430306.25ytwt6qn6zk.jpg&#34; style=&#34;width:200px;&#34;/&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;画的有 &lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/bilibili2233/[2233%E5%A8%98_%E9%83%81%E9%97%B7].png&#34; style=&#34;height:1.5em&#34;/&gt;  一点渣。&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;tip &#34;&gt;&lt;p&gt;设定暂时不完善&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;檐牙&#34;&gt;&lt;a href=&#34;#檐牙&#34; class=&#34;headerlink&#34; title=&#34;檐牙&#34;&gt;&lt;/a&gt;檐牙&lt;/h2&gt;&lt;p class=&#39;p center logo large&#39;&gt;檐牙&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;性别：男&lt;/li&gt;
+&lt;li&gt;种族：犬兽人&lt;/li&gt;
+&lt;li&gt;现实种族：边境牧羊犬&lt;/li&gt;
+&lt;li&gt;外貌：毛发主要为深灰色和白色&lt;/li&gt;
+&lt;li&gt;特征：尾巴上有个十字符号。开心时耳朵毛发出现白色渐变；气或伤心时，头部两侧下垂毛发出现白色渐变。眼睛瞳孔为橙色。&lt;/li&gt;
+&lt;li&gt;性格：外向，喜欢聊天；选择困难&lt;/li&gt;
+&lt;li&gt;备注：喜欢吃橘子&lt;details &gt;&lt;summary&gt; 设定图 &lt;/summary&gt;
+              &lt;div class=&#39;content&#39;&gt;
+              &lt;p&gt;&lt;div class=&#34;img-wrap&#34;&gt;&lt;div class=&#34;img-bg&#34;&gt;&lt;img class=&#34;img&#34; src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.2/images/9fc31ddc177e575d6614589d899d405c8d254d46.jpg&#34; style=&#34;width:200px;&#34;/&gt;&lt;/div&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&lt;em&gt;旧设，感谢@星辉之耀&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;div class=&#34;img-wrap&#34;&gt;&lt;div class=&#34;img-bg&#34;&gt;&lt;img class=&#34;img&#34; src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/zxmacc.png&#34; style=&#34;width:200px;&#34;/&gt;&lt;/div&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&lt;em&gt;这是自己画的&lt;/em&gt;&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/details&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="兽设" />
+        <updated>2021-05-23T15:22:57.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zxma.top/posts/19888/</id>
+        <title>（小说）架空世界观设定</title>
+        <link rel="alternate" href="https://www.zxma.top/posts/19888/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;tip &#34;&gt;&lt;p&gt;参考了贴吧的&lt;a href=&#34;https://tieba.baidu.com/p/3192811178&#34;&gt;让我来告诉你如何设定世界观&lt;/a&gt;，博主目前不太会写，请见谅&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Arknights/rabbit_07.jpg&#34; style=&#34;height:60px;&#34;/&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;主义&#34;&gt;&lt;a href=&#34;#主义&#34; class=&#34;headerlink&#34; title=&#34;主义&#34;&gt;&lt;/a&gt;主义&lt;/h1&gt;&lt;p&gt;主义方面，主世界目前是唯物主义，魔法世界有一小部分是唯心的。&lt;/p&gt;
+&lt;h1 id=&#34;世界的基本形状&#34;&gt;&lt;a href=&#34;#世界的基本形状&#34; class=&#34;headerlink&#34; title=&#34;世界的基本形状&#34;&gt;&lt;/a&gt;世界的基本形状&lt;/h1&gt;&lt;p&gt;两个世界，都是圆形，和地球一样的面积，相似的地形。&lt;/p&gt;
+&lt;h1 id=&#34;关于创世神等&#34;&gt;&lt;a href=&#34;#关于创世神等&#34; class=&#34;headerlink&#34; title=&#34;关于创世神等&#34;&gt;&lt;/a&gt;关于创世神等&lt;/h1&gt;&lt;p&gt;这个世界的起源并不是宇宙大爆炸，而是由两位自称创世神的存在创造的。&lt;/p&gt;
+&lt;p&gt;两位创世神分别创造了两个不同的世界，之后就各自以凡人的身体，融入到了各自创造的世界中。&lt;/p&gt;
+&lt;h1 id=&#34;世界的基本构成&#34;&gt;&lt;a href=&#34;#世界的基本构成&#34; class=&#34;headerlink&#34; title=&#34;世界的基本构成&#34;&gt;&lt;/a&gt;世界的基本构成&lt;/h1&gt;&lt;h2 id=&#34;主世界&#34;&gt;&lt;a href=&#34;#主世界&#34; class=&#34;headerlink&#34; title=&#34;主世界&#34;&gt;&lt;/a&gt;主世界&lt;/h2&gt;&lt;p&gt;和现实中的地球十分相似，物理法则等都和地球相似，几乎没啥出入。&lt;/p&gt;
+&lt;h3 id=&#34;科技&#34;&gt;&lt;a href=&#34;#科技&#34; class=&#34;headerlink&#34; title=&#34;科技&#34;&gt;&lt;/a&gt;科技&lt;/h3&gt;&lt;p&gt;科技方面，生物科技，医疗类，人工智能等异常的突飞猛进&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;之后详细设定&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;魔法世界&#34;&gt;&lt;a href=&#34;#魔法世界&#34; class=&#34;headerlink&#34; title=&#34;魔法世界&#34;&gt;&lt;/a&gt;魔法世界&lt;/h2&gt;&lt;p&gt;一个架空世界，与主世界完全不同，还处于中世纪。&lt;/p&gt;
+&lt;h3 id=&#34;魔法&#34;&gt;&lt;a href=&#34;#魔法&#34; class=&#34;headerlink&#34; title=&#34;魔法&#34;&gt;&lt;/a&gt;魔法&lt;/h3&gt;&lt;p&gt;违背主世界的科学原理，可以改变和调动物质或者世界。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;之后详细设定&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;大体环境&#34;&gt;&lt;a href=&#34;#大体环境&#34; class=&#34;headerlink&#34; title=&#34;大体环境&#34;&gt;&lt;/a&gt;大体环境&lt;/h1&gt;&lt;p&gt;&lt;em&gt;之后整一个&lt;/em&gt; &lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Tsuri-me-ju_mimi/10753789_key@2x.png&#34; style=&#34;height:60px;&#34;/&gt; &lt;/p&gt;
+&lt;h1 id=&#34;种族&#34;&gt;&lt;a href=&#34;#种族&#34; class=&#34;headerlink&#34; title=&#34;种族&#34;&gt;&lt;/a&gt;种族&lt;/h1&gt;&lt;h2 id=&#34;主世界-1&#34;&gt;&lt;a href=&#34;#主世界-1&#34; class=&#34;headerlink&#34; title=&#34;主世界&#34;&gt;&lt;/a&gt;主世界&lt;/h2&gt;&lt;h3 id=&#34;人类&#34;&gt;&lt;a href=&#34;#人类&#34; class=&#34;headerlink&#34; title=&#34;人类&#34;&gt;&lt;/a&gt;人类&lt;/h3&gt;&lt;p&gt;和现实中的人类一样&lt;/p&gt;
+&lt;h2 id=&#34;兽人&#34;&gt;&lt;a href=&#34;#兽人&#34; class=&#34;headerlink&#34; title=&#34;兽人&#34;&gt;&lt;/a&gt;兽人&lt;/h2&gt;&lt;div class=&#34;tip warning faa-horizontal animated&#34;&gt;&lt;p&gt;暂时先更新到这，sorry~&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Arknights/five_09.jpg&#34; style=&#34;height:60px;&#34;/&gt; &lt;/p&gt;
+&lt;/div&gt;
+</content>
+        <category term="兽圈" />
+        <category term="设定" />
+        <updated>2021-01-03T06:42:39.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zxma.top/posts/4439/</id>
+        <title>动画番剧推荐（来自深渊）</title>
+        <link rel="alternate" href="https://www.zxma.top/posts/4439/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;p&gt;电视动画片《来自深渊》改编自土笔章人原作的同名漫画作品，由KINEMA CITRUS负责制作。于2016年12月21日宣布动画化。&lt;/p&gt;
+&lt;h1 id=&#34;剧情简介&#34;&gt;&lt;a href=&#34;#剧情简介&#34; class=&#34;headerlink&#34; title=&#34;剧情简介&#34;&gt;&lt;/a&gt;剧情简介&lt;/h1&gt;&lt;p&gt;在每一个角落都被探索完毕的世界中，唯一残留的秘境——大洞穴“阿比斯”。不知道延续到何方，深不见底的巨大纵向洞穴，栖息着奇妙奇怪的生物们，沉眠着现在的人类无法制造的贵重遗物。“阿比斯”那充满了不可思议的姿态吸引了人们，并驱使人们展开冒险。如此，多次挑战大洞穴的冒险者们，陆续得到了“探窟家”的名号。&lt;br&gt;住在建造于深渊边缘的城镇“奥斯”的孤儿莉可，梦想着有朝一日成为母亲那样伟大的探窟家，并解开深渊的谜团。这样的某一天，莉可在探索深渊的途中，捡到了有着少年样貌的机器人…？ （以上来源于百度百科）&lt;/p&gt;
+&lt;h1 id=&#34;混剪视频（来源百度）&#34;&gt;&lt;a href=&#34;#混剪视频（来源百度）&#34; class=&#34;headerlink&#34; title=&#34;混剪视频（来源百度）&#34;&gt;&lt;/a&gt;混剪视频（来源百度）&lt;/h1&gt;&lt;p&gt;手机端直接点击链接观看&lt;a href=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@2.4/images/%E6%9D%A5%E8%87%AA%E6%B7%B1%E6%B8%8A,%E4%B8%80%E6%97%A0%E6%89%80%E7%9F%A5.mp4&#34;&gt;点击观看视频&lt;/a&gt;&lt;/p&gt;
+&lt;video id=&#34;video&#34; controls=&#34;&#34; preload=&#34;none&#34; width=&#34;630px&#34; height=&#34;368px&#34; poster=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@2.5/images/abyss.jpg&#34;&gt;
+      &lt;source id=&#34;mp4&#34;  src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@2.4/images/%E6%9D%A5%E8%87%AA%E6%B7%B1%E6%B8%8A,%E4%B8%80%E6%97%A0%E6%89%80%E7%9F%A5.mp4&#34; type=&#34;video/mp4&#34;&gt;
+      &lt;/video&gt;</content>
+        <category term="视频" />
+        <category term="动画" />
+        <updated>2020-10-17T17:20:25.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zxma.top/posts/61916/</id>
+        <title>自制Live2D形象</title>
+        <link rel="alternate" href="https://www.zxma.top/posts/61916/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;自制Live2D&#34;&gt;&lt;a href=&#34;#自制Live2D&#34; class=&#34;headerlink&#34; title=&#34;自制Live2D&#34;&gt;&lt;/a&gt;自制Live2D&lt;/h1&gt;&lt;p&gt;自己做了个Live2D撒&lt;br&gt;设定图&lt;br&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/zxmacc.png&#34; alt=&#34;更新&#34;&gt;&lt;br&gt;       &lt;em&gt;2020/10/6更新图&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;效果视频&#34;&gt;&lt;a href=&#34;#效果视频&#34; class=&#34;headerlink&#34; title=&#34;效果视频&#34;&gt;&lt;/a&gt;效果视频&lt;/h1&gt;&lt;p&gt;视频显示有问题的可以直接访问&lt;a href=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/livecc.mp4&#34;&gt;效果视频&lt;/a&gt;&lt;/p&gt;
+&lt;video id=&#34;video&#34; controls=&#34;&#34; preload=&#34;none&#34; width=&#34;300px&#34; height=&#34;630px&#34; poster=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/live2d.jpg&#34;&gt;
+      &lt;source id=&#34;mp4&#34;  src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/livecc.mp4&#34; type=&#34;video/mp4&#34;&gt;
+      &lt;/video&gt;
+
+</content>
+        <category term="视频" />
+        <category term="兽圈" />
+        <category term="设定" />
+        <category term="Live2d" />
+        <updated>2020-10-06T17:28:25.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://www.zxma.top/posts/19660/</id>
+        <title>兽设和人设 （本体设定）</title>
+        <link rel="alternate" href="https://www.zxma.top/posts/19660/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;h2 id=&#34;兽设（本体）&#34;&gt;&lt;a href=&#34;#兽设（本体）&#34; class=&#34;headerlink&#34; title=&#34;兽设（本体）&#34;&gt;&lt;/a&gt;兽设（本体）&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;名字&lt;/strong&gt;：檐牙&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;性别&lt;/strong&gt;：男&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;种族&lt;/strong&gt;：犬兽人&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;现实种族&lt;/strong&gt;：边境牧羊犬&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特征&lt;/strong&gt;：尾巴上有个十字符号。开心时耳朵毛发出现白色渐变；气或伤心时，头部两侧下垂毛发出现白色渐变。眼睛瞳孔为橙色。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;性格&lt;/strong&gt;：外向，喜欢聊天；选择困难&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;备注&lt;/strong&gt;：喜欢吃橘子&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.2/images/9fc31ddc177e575d6614589d899d405c8d254d46.jpg&#34; alt=&#34;旧设，感谢@星辉之耀&#34;&gt;&lt;br&gt;              &lt;em&gt;旧设，感谢@星辉之耀&lt;/em&gt;&lt;br&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.1/images/014029c00a2a50481ec813bd19ac2c861138f2b4.jpg&#34; alt=&#34;这是自己画的，之后会出全身图&#34;&gt;&lt;br&gt;         &lt;em&gt;这是自己画的，之后会出全身图&lt;/em&gt;&lt;br&gt;     &lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/zxmacc.png&#34; alt=&#34;更新&#34;&gt;&lt;br&gt;       &lt;em&gt;2020/10/6更新图&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;人设（本体）&#34;&gt;&lt;a href=&#34;#人设（本体）&#34; class=&#34;headerlink&#34; title=&#34;人设（本体）&#34;&gt;&lt;/a&gt;人设（本体）&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;名字&lt;/strong&gt;：洛方&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;性别&lt;/strong&gt;：男&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;种族&lt;/strong&gt;：人类&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;现实种族&lt;/strong&gt;：人类&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特征&lt;/strong&gt;：橙色瞳孔，戴着副方框眼镜，额头部分头发有条分支&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;性格&lt;/strong&gt;：内向，对一些事物总是假装不在意；记仇；选择困难&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/xxx.75tx784ibuo0.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="兽圈" />
+        <category term="设定" />
+        <updated>2020-10-06T14:24:26.000Z</updated>
+    </entry>
 </feed>

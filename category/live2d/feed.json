@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "檐牙的小窝 • All posts by \"live2d\" category",
+    "description": "梦想是当一名画师",
+    "home_page_url": "https://www.zxma.top",
+    "items": [
+        {
+            "id": "https://www.zxma.top/posts/61916/",
+            "url": "https://www.zxma.top/posts/61916/",
+            "title": "自制Live2D形象",
+            "date_published": "2020-10-06T17:28:25.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"/assets/css/APlayer.min.css\"><script src=\"/assets/js/APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><script class=\"meting-secondary-script-marker\" src=\"/assets/js/Meting.min.js\"></script><h1 id=\"自制Live2D\"><a href=\"#自制Live2D\" class=\"headerlink\" title=\"自制Live2D\"></a>自制Live2D</h1><p>自己做了个Live2D撒<br>设定图<br><img src=\"https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/zxmacc.png\" alt=\"更新\"><br>       <em>2020/10/6更新图</em></p>\n<h1 id=\"效果视频\"><a href=\"#效果视频\" class=\"headerlink\" title=\"效果视频\"></a>效果视频</h1><p>视频显示有问题的可以直接访问<a href=\"https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/livecc.mp4\">效果视频</a></p>\n<video id=\"video\" controls=\"\" preload=\"none\" width=\"300px\" height=\"630px\" poster=\"https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/live2d.jpg\">\n      <source id=\"mp4\"  src=\"https://cdn.jsdelivr.net/gh/zxmav/CND@1.9/images/livecc.mp4\" type=\"video/mp4\">\n      </video>\n\n",
+            "tags": [
+                "视频",
+                "兽圈",
+                "设定",
+                "Live2d"
+            ]
+        }
+    ]
+}

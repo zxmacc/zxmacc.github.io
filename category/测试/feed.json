@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "檐牙的小窝 • All posts by \"测试\" category",
+    "description": "梦想是当一名画师",
+    "home_page_url": "https://www.zxma.top",
+    "items": [
+        {
+            "id": "https://www.zxma.top/posts/28820/",
+            "url": "https://www.zxma.top/posts/28820/",
+            "title": "视频测试",
+            "date_published": "2021-06-15T13:57:11.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"/assets/css/APlayer.min.css\"><script src=\"/assets/js/APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><script class=\"meting-secondary-script-marker\" src=\"/assets/js/Meting.min.js\"></script><p><strong>方法来源于CSDN博客，适用于静态博客网站</strong><br><strong>插件<a href=\"http://dplayer.js.org/\">Dplayer</a></strong></p>\n<h1 id=\"哔哩哔哩\"><a href=\"#哔哩哔哩\" class=\"headerlink\" title=\"哔哩哔哩\"></a>哔哩哔哩</h1><p><a href=\"https://www.bilibili.com/video/BV1oK4y1G7xT\">视频来源</a>bilibili《战 地 2 0 4 2》</p>\n<div id=\"dplayer0\" class=\"dplayer hexo-tag-dplayer-mark\" style=\"margin-bottom: 20px;\"></div><script>(function(){var player = new DPlayer({\"container\":document.getElementById(\"dplayer0\"),\"theme\":\"#FADFA3\",\"loop\":true,\"video\":{\"url\":\"https://unpkg.zhimg.com/zxmacc-cdn@1.0.1/videos/zd01.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/xxx.2pyzvkfrbdu0.gif\"},\"danmaku\":{\"id\":\"312412\",\"api\":\"https://dplayer.moerats.com/\",\"token\":\"tokendemo\"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>\n<h1 id=\"幼女战记\"><a href=\"#幼女战记\" class=\"headerlink\" title=\"幼女战记\"></a>幼女战记</h1><div id=\"dplayer1\" class=\"dplayer hexo-tag-dplayer-mark\" style=\"margin-bottom: 20px;\"></div><script>(function(){var player = new DPlayer({\"container\":document.getElementById(\"dplayer1\"),\"theme\":\"#FADFA3\",\"loop\":true,\"video\":{\"url\":\"https://unpkg.zhimg.com/zxmacc-cdn@1.0.1/videos/yn031.mp4\",\"pic\":\"https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/xxx.2pyzvkfrbdu0.gif\"},\"danmaku\":{\"id\":\"3634442\",\"api\":\"https://dplayer.moerats.com/\",\"token\":\"tokendemo\"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>\n",
+            "tags": [
+                "Hexo",
+                "视频"
+            ]
+        }
+    ]
+}
