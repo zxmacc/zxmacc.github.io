@@ -56,7 +56,7 @@
             <category>Hexo</category>
             <category>视频</category>
             <pubDate>Tue, 15 Jun 2021 13:57:11 +0000</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;note blue info flat&#34;&gt;&lt;p&gt;方法来源于CSDN博客，适用于静态博客网站&lt;/p&gt;
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;note blue info flat&#34;&gt;&lt;p&gt;方法来源于CSDN博客，适用于静态博客网站。首次访问可能无法加载，多刷新几次&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;note orange default flat&#34;&gt;&lt;p&gt;插件&lt;a href=&#34;https://www.npmjs.com/package/hexo-tag-dplayer&#34;&gt;hexo-tag-dplayer&lt;/a&gt;，原&lt;a href=&#34;http://dplayer.js.org/&#34;&gt;Dplayer&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
