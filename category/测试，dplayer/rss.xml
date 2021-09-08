@@ -1,23 +1,30 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.zxma.top</id>
-    <title>檐牙的小窝 • Posts by &#34;测试&#34; category</title>
-    <link href="https://www.zxma.top" />
-    <updated>2021-06-15T13:57:11.000Z</updated>
-    <category term="Hexo" />
-    <category term="兽设" />
-    <category term="视频" />
-    <category term="动画" />
-    <category term="博客" />
-    <category term="兽圈" />
-    <category term="设定" />
-    <category term="Live2d" />
-    <category term="人设" />
-    <entry>
-        <id>https://www.zxma.top/posts/28820/</id>
-        <title>Dplayer播放器测试</title>
-        <link rel="alternate" href="https://www.zxma.top/posts/28820/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;note blue info flat&#34;&gt;&lt;p&gt;方法来源于CSDN博客，适用于静态博客网站。首次访问可能无法加载，多刷新几次&lt;/p&gt;
+<rss version="2.0">
+    <channel>
+        <title>檐牙的小窝 • Posts by &#34;测试，dplayer&#34; category</title>
+        <link>https://www.zxma.top</link>
+        <description>梦想是当一名画师</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 15 Jun 2021 13:57:11 +0000</pubDate>
+        <lastBuildDate>Tue, 15 Jun 2021 13:57:11 +0000</lastBuildDate>
+        <category>Hexo</category>
+        <category>兽设</category>
+        <category>视频</category>
+        <category>动画</category>
+        <category>博客</category>
+        <category>兽圈</category>
+        <category>设定</category>
+        <category>Dplayer</category>
+        <category>Live2d</category>
+        <category>人设</category>
+        <item>
+            <guid isPermalink="true">https://www.zxma.top/posts/28820/</guid>
+            <title>Dplayer播放器测试</title>
+            <link>https://www.zxma.top/posts/28820/</link>
+            <category>视频</category>
+            <category>Dplayer</category>
+            <pubDate>Tue, 15 Jun 2021 13:57:11 +0000</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;note blue info flat&#34;&gt;&lt;p&gt;方法来源于CSDN博客，适用于静态博客网站。首次访问可能无法加载，多刷新几次&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;note orange default flat&#34;&gt;&lt;p&gt;插件&lt;a href=&#34;https://www.npmjs.com/package/hexo-tag-dplayer&#34;&gt;hexo-tag-dplayer&lt;/a&gt;，原&lt;a href=&#34;http://dplayer.js.org/&#34;&gt;Dplayer&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -27,9 +34,7 @@
 &lt;h1 id=&#34;幼女战记&#34;&gt;&lt;a href=&#34;#幼女战记&#34; class=&#34;headerlink&#34; title=&#34;幼女战记&#34;&gt;&lt;/a&gt;幼女战记&lt;/h1&gt;&lt;div id=&#34;dplayer1&#34; class=&#34;dplayer hexo-tag-dplayer-mark&#34; style=&#34;margin-bottom: 20px;&#34;&gt;&lt;/div&gt;&lt;script&gt;(function(){var player = new DPlayer({&#34;container&#34;:document.getElementById(&#34;dplayer1&#34;),&#34;theme&#34;:&#34;#FADFA3&#34;,&#34;loop&#34;:true,&#34;video&#34;:{&#34;url&#34;:&#34;https://unpkg.zhimg.com/zxmacc-cdn@1.0.1/videos/yn031.mp4&#34;,&#34;pic&#34;:&#34;https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/xxx.2pyzvkfrbdu0.gif&#34;},&#34;danmaku&#34;:{&#34;id&#34;:&#34;3634442&#34;,&#34;api&#34;:&#34;https://dplayer.moerats.com/&#34;,&#34;token&#34;:&#34;tokendemo&#34;}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()&lt;/script&gt;
 &lt;figure class=&#34;highlight markdown&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;% dplayer &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;quot;url=https://unpkg.zhimg.com/zxmacc-cdn@1.0.1/videos/yn031.mp4&amp;quot;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;quot;pic=https://cdn.jsdelivr.net/gh/zxmacc/CDN@master/images/xxx.2pyzvkfrbdu0.gif&amp;quot; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;quot;loop=yes&amp;quot; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;quot;theme=#FADFA3&amp;quot; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;quot;autoplay=false&amp;quot; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;quot;token=tokendemo&amp;quot; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;quot;api=https://dplayer.moerats.com/&amp;quot; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;quot;id=3634442&amp;quot; %&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;之后呢，我又尝试了一些东西，最终效果在菜单栏，杂项分类里的番剧哈，各位可以康康，诶嘿。&lt;img no-lazy class=&#34;inline&#34; src=&#34;https://cdn.jsdelivr.net/gh/2x-ercha/twikoo-magic@master/image/huaji/huaji20.jpg&#34; style=&#34;height:40px;&#34;/&gt;&lt;/p&gt;
-</content>
-        <category term="Hexo" />
-        <category term="视频" />
-        <updated>2021-06-15T13:57:11.000Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>

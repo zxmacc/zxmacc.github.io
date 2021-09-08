@@ -14,6 +14,7 @@
         <category>博客</category>
         <category>兽圈</category>
         <category>设定</category>
+        <category>Dplayer</category>
         <category>Live2d</category>
         <category>人设</category>
         <item>
@@ -53,8 +54,8 @@
             <guid isPermalink="true">https://www.zxma.top/posts/28820/</guid>
             <title>Dplayer播放器测试</title>
             <link>https://www.zxma.top/posts/28820/</link>
-            <category>Hexo</category>
             <category>视频</category>
+            <category>Dplayer</category>
             <pubDate>Tue, 15 Jun 2021 13:57:11 +0000</pubDate>
             <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;note blue info flat&#34;&gt;&lt;p&gt;方法来源于CSDN博客，适用于静态博客网站。首次访问可能无法加载，多刷新几次&lt;/p&gt;
 &lt;/div&gt;
