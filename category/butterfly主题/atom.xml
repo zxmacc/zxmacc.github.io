@@ -18,9 +18,26 @@
     <category term="美化" />
     <entry>
         <id>https://www.zxma.top/posts/51727/</id>
-        <title>Butterfly主题美化/魔改</title>
+        <title>Butterfly主题美化/魔改日记</title>
         <link rel="alternate" href="https://www.zxma.top/posts/51727/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;p&gt;书写中&lt;/p&gt;
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;div class=&#34;note warning flat&#34;&gt;&lt;ol&gt;
+&lt;li&gt;声明一下，博主这没啥基础，写的可能很烂，这边只是自己记录一下&lt;/li&gt;
+&lt;li&gt;我会放出几位大佬的魔改链接，大家可以去看他们的&lt;/li&gt;
+&lt;li&gt;以下魔改可能涉及修改主题源码，大家做好备份&lt;/li&gt;
+&lt;li&gt;有出错可以百度，谷歌，必应，一般都能解决哈&lt;/li&gt;
+&lt;li&gt;以下内容可能会不间断更新，现版本为，框架&lt;code&gt;Hexo:5.4.0&lt;/code&gt;主题&lt;code&gt;Butterfly:3.8.3&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;大佬们呐&#34;&gt;&lt;a href=&#34;#大佬们呐&#34; class=&#34;headerlink&#34; title=&#34;大佬们呐~&#34;&gt;&lt;/a&gt;大佬们呐~&lt;/h1&gt;&lt;div class=&#34;site-card-group&#34;&gt;&lt;a class=&#34;site-card&#34; href=&#34;https://butterfly.imlete.cn/article/Butterfly-config.html&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@1.4/www.lete114.top.jpg&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;https://www.lete114.top/img/avatar.png&#34;/&gt;&lt;span class=&#34;title&#34;&gt;Lete 乐特&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;人生只有一次，大胆生活！&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a class=&#34;site-card&#34; href=&#34;https://akilar.top/posts/f99b208/&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@1.4/akilar.top.jpg&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;https://akilar.top/img/siteicon/favicon.png&#34;/&gt;&lt;span class=&#34;title&#34;&gt;Akilar&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;欢迎光临糖果屋&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a class=&#34;site-card&#34; href=&#34;https://zfe.space&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://zfe.space/&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;https://zfe.space/images/headimage.png&#34;/&gt;&lt;span class=&#34;title&#34;&gt;小冰博客&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;做个有梦想的人！&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a class=&#34;site-card&#34; href=&#34;https://www.antmoe.com&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@1.4/www.antmoe.com.jpg&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg&#34;/&gt;&lt;span class=&#34;title&#34;&gt;小康博客&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;Butterfly优雅魔改&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a class=&#34;site-card&#34; href=&#34;https://noionion.top/&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://noionion.top/&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;http://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg&#34;/&gt;&lt;span class=&#34;title&#34;&gt;贰猹の小窝&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;用这生命中的每一秒，给自己一个不后悔的未来&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a class=&#34;site-card&#34; href=&#34;https://guole.fun/posts/butterfly-custom/&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://guole.fun/&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;https://guole.fun/img/gl.jpg&#34;/&gt;&lt;span class=&#34;title&#34;&gt;guole&#39;s Blog&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;保持理智，相信明天&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;a class=&#34;site-card&#34; href=&#34;https://blog.imzjw.cn/posts/b74f504f/&#34;&gt;&lt;div class=&#34;img&#34;&gt;&lt;img src=&#34;https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://blog.imzjw.cn/&#34;/&gt;&lt;/div&gt;&lt;div class=&#34;info&#34;&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/npm/nanshen/avatar.jpg&#34;/&gt;&lt;span class=&#34;title&#34;&gt;小嘉的部落格&lt;/span&gt;&lt;span class=&#34;desc&#34;&gt;这里是小嘉的部落格！一个不仅仅关注JAVA技术的部落格&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note warning flat&#34;&gt;&lt;p&gt;有别的事情了，有空继续写&lt;/p&gt;
+&lt;/div&gt;
 </content>
         <category term="Butterfly" />
         <category term="魔改" />
