@@ -1,0 +1,1 @@
+{"name":"zxma-siteassets","version":"2.0.0","description":"Yanyaの的静态资源仓库","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"keywords":["zxma","zxmacc"],"author":"zxmacc","license":"ISC"}
