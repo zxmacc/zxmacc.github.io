@@ -1,0 +1,19 @@
+# www.zxma.top hexo robots.txt
+User-agent: * 
+Allow: /
+Allow: /index.html
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Disallow: /kongtiao/
+Disallow: /box/
+Disallow: /about/
+Disallow: /Gallery/
+Disallow: /comments/
+
+Sitemap: https://www.zxma.top/sitemap.xml
+Sitemap: https://www.zxma.top/baidusitemap.xml
