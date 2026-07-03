@@ -1,0 +1,1 @@
+var posts=["posts/9a06f4c1/","posts/1a6b51b9/","posts/eb50eef1/","posts/514166a2/"];function toRandomPost(){pjax.loadUrl("/"+posts[Math.floor(Math.random()*posts.length)])}
